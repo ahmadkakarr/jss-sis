@@ -52,7 +52,7 @@ $pg_dumpPath = '/usr/bin/pg_dump';
  * @example /usr/local/bin/wkhtmltopdf
  * @example C:/Progra~1/wkhtmltopdf/bin/wkhtmltopdf.exe
  */
-// $wkhtmltopdfPath = '/usr/local/bin/wkhtmltopdf';
+$wkhtmltopdfPath = '/usr/local/bin/wkhtmltopdf';
 
 
 /**
