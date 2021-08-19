@@ -39,7 +39,7 @@ $DatabasePort = '5432';
  * @example /usr/bin/pg_dump
  * @example C:/Progra~1/PostgreSQL/bin/pg_dump.exe
  */
-$pg_dumpPath = '';
+$pg_dumpPath = '/usr/bin/pg_dump';
 
 /**
  * Full path to wkhtmltopdf binary file
@@ -52,7 +52,7 @@ $pg_dumpPath = '';
  * @example /usr/local/bin/wkhtmltopdf
  * @example C:/Progra~1/wkhtmltopdf/bin/wkhtmltopdf.exe
  */
-$wkhtmltopdfPath = '';
+$wkhtmltopdfPath = '/usr/local/bin/wkhtmltopdf';
 
 
 /**
